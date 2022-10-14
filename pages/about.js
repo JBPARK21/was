@@ -1,10 +1,10 @@
 import React from 'react';
 
 export default function about() {
-  const name = 'Park';
+  const name = 'Guys';
   return (
     <div>
-      <hi> About Page</hi>
+      <h1> About Page</h1>
       <p> File-based routing </p>
       <p> JSX </p>
       <p> Hello {name} </p>

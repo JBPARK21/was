@@ -3,5 +3,5 @@
 export default function handler(req, res) {
   res
     .status(200)
-    .json({ name: 'Beom ju Park', age: 30, email: 'bzpark@naver.com' });
+    .json({ name: 'Beom ju Park', age: 24, email: 'bzpark@naver.com' });
 }

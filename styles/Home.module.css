@@ -3,7 +3,7 @@
 }
 
 .homeTitle {
-  color: red;
+  color: rgb(38, 72, 207);
 }
 
 .main {
@@ -14,7 +14,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: lightgray; /**fix*/
+  background-color: rgba(211, 211, 211, 0.866); /**fix*/
 }
 
 .footer {
