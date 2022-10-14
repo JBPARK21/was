@@ -25,7 +25,7 @@ export default function profile() {
             이메일: bzpark@naver.com
             <br />
             <br />
-            전공 웹프로젝트 Was 입니다. <br />
+            첫 번째 웹사이트 Was 입니다. <br />
             <br />
           </p>
         </div>
