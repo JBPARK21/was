@@ -1,0 +1,48 @@
+.h1 {
+  font-size: 32px;
+  position: relative;
+  margin-bottom: 70px;
+  font-weight: bold;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  bottom: -20px;
+}
+
+.card_box {
+  width: 90%;
+  max-width: 800px;
+  height: 480px;
+  border-radius: 10px;
+  box-shadow: -10px 10px 40px rgba(12, 12, 12, 0.308);
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+}
+
+.card {
+  height: 300px;
+  padding: 40px;
+  color: gray;
+  line-height: 22px;
+  box-sizing: border-box;
+  background: #fff;
+  position: relative;
+  line-height: 1.5;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.profile h3 {
+  font-size: 30px;
+  color: #2d7ea3;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
